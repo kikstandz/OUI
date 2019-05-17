@@ -6,10 +6,10 @@
 
 The files were generated in two formats:
 
-- Hex		(**oui_hex.txt**)			MAC Vendor
-- Hex		(**address_organizzation_hex.txt**)	Organizzation Address
-- Base 16	(**oui.txt**)				MAC Vendor
-- Base 16	(**address_organizzation.txt**)		Organizzation Address
+- **Hex**	(*oui_hex.txt*)				MAC Vendor
+- **Hex**	(*address_organizzation_hex.txt*)	Organizzation Address
+- **Base 16**	(*oui.txt*)				MAC Vendor
+- **Base 16**	(*address_organizzation.txt*)		Organizzation Address
 
 The delimiter character (between MAC <-> Vendor and MAC <-> Organization) is 1 tabs ("\t")
 

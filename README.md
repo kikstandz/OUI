@@ -11,6 +11,14 @@ Files Contain 2 Format:
 
 The delimiter character is 1 tabs ("\t")
 
+# Alternative Download
+
+```
+wget https://raw.githubusercontent.com/vincenzogianfelice/OUI/master/address_organizzation.txt
+wget https://raw.githubusercontent.com/vincenzogianfelice/OUI/master/address_organizzation_hex.txt
+wget https://raw.githubusercontent.com/vincenzogianfelice/OUI/master/oui.txt
+wget https://raw.githubusercontent.com/vincenzogianfelice/OUI/master/oui_hex.txt
+```
 # Donazioni
 
 **BTC:** *3EwV4zt9r5o4aTHyqjcM6CfqSVirSEmN6y*
